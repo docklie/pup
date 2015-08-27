@@ -1,0 +1,1 @@
+maxjenkins ALL=/bin/chown /bin/chmod

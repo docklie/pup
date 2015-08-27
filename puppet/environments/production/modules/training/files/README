@@ -1,0 +1,20 @@
+####  3 seats xorg setup ### 
+
+
+* copy files 
+ cp xorg.conf /etc/X11/xorg.conf
+ cp 10-multi-seat.rules /etc/udev/rules.d/10-multi-seat.rules
+ cp custom.conf /etc/gdm/custom.conf
+
+* poweroff 
+* Install 2 extra cards
+* connect everything up (see diagram in box)
+* start machine
+ All screens should come up 
+
+* Xilinx licence 
+Change your mac using:
+ ifconfig eth0 hw ether 00:22:19:64:A0:E6
+copy the included velum.lic file somewhere appropriate and export it.
+ export XILINXD_LICENSE_FILE="/opt/Xilinx/velum.lic"
+

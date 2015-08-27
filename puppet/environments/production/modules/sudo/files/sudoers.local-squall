@@ -1,0 +1,4 @@
+# Managed by puppet
+
+shutt      ALL=(ALL)       NOPASSWD: ALL
+

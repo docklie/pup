@@ -1,0 +1,13 @@
+# declaring nx class
+class { 'nx': }
+
+# defining nx class
+
+class nx {
+  package { 'nomachine':
+    ensure   => installed,
+    source   => 'puppet:///modules/nx/nomachine_4.6.12_7_x86_64.rpm',
+#    source   => 'puppet:///modules/nx/nx-workstation.rpm',
+    provider => rpm,
+  }
+}

@@ -1,0 +1,8 @@
+# this file is brought to you by puppet 
+sunspot init
+restrict 127.0.0.1
+restrict -6 ::1
+server ntp
+server 127.127.1.0
+fudge   127.127.1.0 stratum 10
+driftfile /var/lib/ntp/drift

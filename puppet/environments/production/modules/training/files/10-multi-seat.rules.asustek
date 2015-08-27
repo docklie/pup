@@ -1,0 +1,7 @@
+#
+SUBSYSTEM=="input", SYSFS{phys}=="usb-0000:00:1d.1-1/input0", NAME="mouse-Seat0"
+SUBSYSTEM=="input", SYSFS{phys}=="usb-0000:00:1d.1-2/input0", NAME="keyboard-Seat0" SYMLINK+="/dev/input/input10" 
+
+SUBSYSTEM=="input", SYSFS{phys}=="usb-0000:00:1d.2-1/input0", NAME="mouse-Seat1"
+SUBSYSTEM=="input", SYSFS{phys}=="usb-0000:00:1d.2-2/input0", NAME="keyboard-Seat1", SYMLINK+="/dev/input/input11" 
+

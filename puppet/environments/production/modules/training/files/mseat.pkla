@@ -1,0 +1,6 @@
+[allow operations]
+Identity=unix-group:training
+Action=org.freedesktop.udisks.*;org.blueman.*;org.freedesktop.packagekit.*;
+ResultAny=yes
+ResultActive=yes
+ResultInactive=yes

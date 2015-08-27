@@ -1,0 +1,595 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Tue Apr 20 11:09:33 GMT+00:00 2010.
+#
+# This is license NODELOCKED to HOSTID=00221964A0E6;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT aurora_64b66b xilinxd 2011.04 permanent uncounted \
+4FF25B101BF9 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,aurora_64b66b,ip,permanent,_174533135_172812496_0_362 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for aurora_64b66b_v1
+FEATURE aurora_64b66b_v1 xilinxd 1.0 permanent uncounted 494A76B9B5EA \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for aurora_64b66b_v2
+FEATURE aurora_64b66b_v2 xilinxd 1.0 permanent uncounted 4E2ED64AEAD4 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT aurora xilinxd 2011.04 permanent uncounted BEF3FCE1F26F \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,aurora,ip,permanent,_174533135_172812496_0_741 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for aurora_v3
+FEATURE aurora_v3 xilinxd 1.0 permanent uncounted 5F657281AD52 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for aurora_v2
+FEATURE aurora_v2 xilinxd 1.0 permanent uncounted EB5FBE233EAB \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT ethernet_statistics xilinxd 2011.04 permanent uncounted \
+0446399DEF14 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,ethernet_statistics,ip,permanent,_174533135_172812496_0_825 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for ethernet_statistics_v3
+FEATURE ethernet_statistics_v3 xilinxd 1.0 permanent uncounted \
+038AD56A5952 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for ethernet_statistics_v1
+FEATURE ethernet_statistics_v1 xilinxd 1.0 permanent uncounted \
+8D8FAB3EDF66 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for ethernet_statistics_v2
+FEATURE ethernet_statistics_v2 xilinxd 1.0 permanent uncounted \
+C99FC61206B0 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v6_emac xilinxd 2011.04 permanent uncounted 1648DC9D8532 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v6_emac,ip,permanent,_174533135_172812496_0_201 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for v6_emac_v1
+FEATURE v6_emac_v1 xilinxd 1.0 permanent uncounted 15E6F6933707 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT aurora_8b10b xilinxd 2011.04 permanent uncounted \
+7B9F30C637D9 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,aurora_8b10b,ip,permanent,_174533135_172812496_0_621 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for aurora_8b10b_v4
+FEATURE aurora_8b10b_v4 xilinxd 1.0 permanent uncounted 54169DB97983 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT gig_eth_pcs_pma xilinxd 2011.04 permanent uncounted \
+F0DF4FFC08D8 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,gig_eth_pcs_pma,ip,permanent,_174533135_172812496_0_343 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v8
+FEATURE gig_eth_pcs_pma_v8 xilinxd 1.0 permanent uncounted \
+9BBDE7500F5B VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v4_0
+FEATURE gig_eth_pcs_pma_v4_0 xilinxd 1.0 permanent uncounted \
+BBEBCF745C17 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v6
+FEATURE gig_eth_pcs_pma_v6 xilinxd 1.0 permanent uncounted \
+3D0BC3465525 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v3_0
+FEATURE gig_eth_pcs_pma_v3_0 xilinxd 1.0 permanent uncounted \
+A4837387538E VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v5_0
+FEATURE gig_eth_pcs_pma_v5_0 xilinxd 1.0 permanent uncounted \
+BFDA032D814C VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v9
+FEATURE gig_eth_pcs_pma_v9 xilinxd 1.0 permanent uncounted \
+EB762DF10E6C VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v7
+FEATURE gig_eth_pcs_pma_v7 xilinxd 1.0 permanent uncounted \
+E3C2E967CC1E VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for gig_eth_pcs_pma_v10
+FEATURE gig_eth_pcs_pma_v10 xilinxd 1.0 permanent uncounted \
+9BEC8CF6CEB6 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT pcie_blk_plus xilinxd 2011.04 permanent uncounted \
+818CA4ADB381 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,pcie_blk_plus,ip,permanent,_174533135_172812496_0_921 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for pcie_blk_plus_v1
+FEATURE pcie_blk_plus_v1 xilinxd 1.0 permanent uncounted 2277223FC76B \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT apu_fpu_sp xilinxd 2011.04 permanent uncounted E9198BD3A639 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,apu_fpu_sp,ip,permanent,_174533135_172812496_0_026 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for apu_fpu_v2
+FEATURE apu_fpu_v2 xilinxd 1.0 permanent uncounted D79EB6908CB0 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for apu_fpu_virtex5_v1
+FEATURE apu_fpu_virtex5_v1 xilinxd 1.0 permanent uncounted \
+5704CBBD1D44 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v5_emac xilinxd 2011.04 permanent uncounted 8A349695C905 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v5_emac,ip,permanent,_174533135_172812496_0_224 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for v5_emac_v1
+FEATURE v5_emac_v1 xilinxd 1.0 permanent uncounted 4D792B75D3E8 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT xaui xilinxd 2011.04 permanent uncounted 4BE6158A870E \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,xaui,ip,permanent,_174533135_172812496_0_227 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for xaui_v6
+FEATURE xaui_v6 xilinxd 1.0 permanent uncounted F55C870C1485 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xaui_v3_0
+FEATURE xaui_v3_0 xilinxd 1.0 permanent uncounted EC97B203081D \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xaui_v8
+FEATURE xaui_v8 xilinxd 1.0 permanent uncounted A853ED7244CD \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xaui_v5_0
+FEATURE xaui_v5_0 xilinxd 1.0 permanent uncounted 8D343845A093 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xaui_v7
+FEATURE xaui_v7 xilinxd 1.0 permanent uncounted 5D8846AFBE8F \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xaui_v4_0
+FEATURE xaui_v4_0 xilinxd 1.0 permanent uncounted AAC77D505808 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT rxaui xilinxd 2011.04 permanent uncounted 7FC62A8B87DF \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,rxaui,ip,permanent,_174533135_172812496_0_223 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT System_Edition xilinxd 2011.04 permanent uncounted \
+9CB8EC41E706 \
+VENDOR_STRING=rob.dimond@gmail.com,System_Edition,software,permanent,_174533135_172812496_173552318_303 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" START=20-Apr-2010 \
+TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT s6_pcie xilinxd 2011.04 permanent uncounted 4A9F93C11013 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,s6_pcie,ip,permanent,_174533135_172812496_0_622 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for s6_pcie_v1
+FEATURE s6_pcie_v1 xilinxd 1.0 permanent uncounted C7EB90FC4620 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT opb_ethernetlite xilinxd 2011.04 permanent uncounted \
+776BC1FBBBD0 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,opb_ethernetlite,ip,permanent,_174533135_172812496_0_563 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for opb_ethernetlite_v1
+FEATURE opb_ethernetlite_v1 xilinxd 1.0 permanent uncounted \
+A3B66B90B39E VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# Licenses for opb_ethernetlite_v1_00_a
+FEATURE opb_ethernetlite_v1_00_a xilinxd 1.0 permanent uncounted \
+D087BA4C1D33 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT xps_ethernetlite xilinxd 2011.04 permanent uncounted \
+067277346ADC \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,xps_ethernetlite,ip,permanent,_174533135_172812496_0_223 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for xps_ethernetlite_v1
+FEATURE xps_ethernetlite_v1 xilinxd 1.0 permanent uncounted \
+9C4ED402D2E6 VENDOR_STRING=License_Type:Bought \
+HOSTID=00221964a0e6 ISSUER=Xilinx NOTICE="The license for this \
+core was generated for rob.dimond@gmail.com on 04/21/2010It is \
+the responsibility of the Licensee of this core to adhere to \
+all terms and conditions of the applicable license agreement \
+when using this core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v_rgb2ycrcb xilinxd 2011.04 permanent uncounted \
+F51D18BA64FF \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v_rgb2ycrcb,ip,permanent,_174533135_172812496_0_448 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for v_rgb2ycrcb_v2
+FEATURE v_rgb2ycrcb_v2 xilinxd 1.0 permanent uncounted 629DB6800BDE \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT opb_iic xilinxd 2011.04 permanent uncounted AB014E831D68 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,opb_iic,ip,permanent,_174533135_172812496_0_543 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for opb_iic_v1
+FEATURE opb_iic_v1 xilinxd 1.0 permanent uncounted 7A4007F339DA \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for opb_iic_v1_01_a
+FEATURE opb_iic_v1_01_a xilinxd 1.0 permanent uncounted 1626FD177646 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for opb_iic_v1_01_b
+FEATURE opb_iic_v1_01_b xilinxd 1.0 permanent uncounted E2B7888E045C \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT xps_iic xilinxd 2011.04 permanent uncounted 7FBCED34F959 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,xps_iic,ip,permanent,_174533135_172812496_0_266 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for xps_iic_v2
+FEATURE xps_iic_v2 xilinxd 1.0 permanent uncounted 70308606E47C \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# Licenses for xps_iic_v1
+FEATURE xps_iic_v1 xilinxd 1.0 permanent uncounted 1020A44D8517 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v_ycrcb2rgb xilinxd 2011.04 permanent uncounted \
+6409ABF36AA3 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v_ycrcb2rgb,ip,permanent,_174533135_172812496_0_861 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for  v_ycrcb2rgb_v2
+FEATURE v_ycrcb2rgb_v2 xilinxd 1.0 permanent uncounted 8C3873645350 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v4_emac xilinxd 2011.04 permanent uncounted 5B2109917F4C \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v4_emac,ip,permanent,_174533135_172812496_0_701 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for v4_emac_v4
+FEATURE v4_emac_v4 xilinxd 1.0 permanent uncounted B3821AF6D8AC \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+# This is a permanent license generated on Tue Apr 20 11:09:33 GMT+00:00 2010
+INCREMENT v6_pcie xilinxd 2011.04 permanent uncounted 2B91BE2314F0 \
+VENDOR_STRING=License_Type:Bought;rob.dimond@gmail.com,v6_pcie,ip,permanent,_174533135_172812496_0_909 \
+HOSTID=00221964a0e6 ISSUER="Xilinx Inc" NOTICE="The license \
+for this core was generated for rob.dimond@gmail.com on \
+04/21/2010It is the responsibility of the Licensee of this \
+core to adhere to all terms and conditions of the applicable \
+license agreement when using this core." START=20-Apr-2010 \
+TS_OK
+#
+# Licenses for v6_pcie_v1
+FEATURE v6_pcie_v1 xilinxd 1.0 permanent uncounted 7A75F91B6DC1 \
+VENDOR_STRING=License_Type:Bought HOSTID=00221964a0e6 \
+ISSUER=Xilinx NOTICE="The license for this core was generated \
+for rob.dimond@gmail.com on 04/21/2010It is the responsibility \
+of the Licensee of this core to adhere to all terms and \
+conditions of the applicable license agreement when using this \
+core." TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE System_Edition xilinxd 2011.04 B1B0D62F0071 \
+COMPONENTS="ChipscopePro ChipscopePro_SIOTK sdk xps PlanAhead \
+ISE ISIM AccelDSP SysGen" OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------

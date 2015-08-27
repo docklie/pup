@@ -1,0 +1,16 @@
+## this file was brought to you  by xcat or puppet
+#
+#this is needed for maxq to work
+#Defaults    requiretty
+Defaults!/network-raid/opt/bin/maxelerosSetup env_keep="MAXELEROSDIR MAXOS_DRIVER_VERBOSITY"
+
+## Allow root to run any commands anywhere
+root  ALL=(ALL)   ALL
+
+# maxadmins can sudo
+%maxadmins      ALL=(ALL)       NOPASSWD: ALL
+%maxusers       ALL=(root)      NOPASSWD: /network-raid/opt/bin/maxelerosSetup
+
+# Because this file is managed by puppet, put overrides for this
+# specific machine in the included file below
+#include /etc/sudoers.local

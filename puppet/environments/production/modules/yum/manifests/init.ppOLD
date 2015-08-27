@@ -1,0 +1,21 @@
+# declare Class: yum
+class { 'yum': }
+
+# define class yum
+class yum {
+  exec {'yumclean':
+    command   => '/usr/bin/yum clean metadata',
+    refreshonly => true,
+  }
+
+  yumrepo  { 'epel':
+    descr      => 'epel repo',
+    mirrorlist => 'https://mirrors.fedoraproject.org/metalink?repo=epel-6&arch=$basesearch',
+    enabled    => 1,
+    gpgcheck   => 0, 
+    baseurl    => 'http://download.fedoraproject.org/pub/epel/6/$basearch',
+    notify     => Exec['yumclean'],
+  }
+
+  
+}

@@ -1,0 +1,70 @@
+#!/usr/bin/python
+
+# Needs +s on /usr/bin/chvt
+# Install script sets this
+
+import pygtk, sys, datetime, subprocess, os
+pygtk.require('2.0')
+import gnomeapplet, gtk, gobject
+
+def factory(applet, iid):
+	button = gtk.Button("Give me next USB stick")
+	button.set_relief(gtk.RELIEF_NONE)
+	button.connect("button_press_event", showMenu, applet)
+	applet.add(button)
+	applet.show_all()
+	return True
+
+
+def showMenu(widget, event, applet):
+	if event.type == gtk.gdk.BUTTON_PRESS and event.button == 3:
+		widget.emit_stop_by_name("button_press_event")
+		propxml="""
+			<popup name="button3">
+			<menuitem name="Item 3" verb="About" label="_About" pixtype="stock" pixname="gtk-about"/>
+			</popup>"""
+		verbs = [("About", showAboutDialog)]
+		applet.setup_menu(propxml, verbs, None)
+
+	elif event.type == gtk.gdk.BUTTON_PRESS and event.button == 1:
+            uid = str(os.getuid())
+            in_correct_session = False
+            tty = None
+            for line in subprocess.Popen(["ck-list-sessions"], stdout=subprocess.PIPE).communicate()[0].splitlines():
+                if "unix-user" in line and uid in line:
+                      in_correct_session = True
+
+                elif in_correct_session and "x11-display-device" in line:
+                      tty = line.strip().split()[-1].replace("\'", "").replace("/dev/tty", "")
+                      break
+
+            if not tty:
+               sys.stderr.write("Couldn't find my X11 tty.\n")
+               sys.exit(1)
+        subprocess.Popen(["chvt", tty]).communicate()
+
+def showAboutDialog(*arguments, **keywords):
+      ad = gtk.MessageDialog(type=gtk.MESSAGE_INFO, buttons=gtk.BUTTONS_CLOSE, message_format="Next USB Panel Applet")
+      ad.format_secondary_text(
+	  "Copyright 2012 Maxeler Technologies Ltd <msmith@maxeler.com>\n\n" +
+	  "Sets the next USB stick to be plugged in to be assigned to the calling user in a dual head system."
+      )
+      ad.run()
+      ad.destroy()
+
+if len(sys.argv) > 1 and "--windowed" in sys.argv:
+      mainWindow = gtk.Window(gtk.WINDOW_TOPLEVEL)
+      mainWindow.set_title("Next USB")
+      mainWindow.connect("destroy", gtk.main_quit)
+      applet = gnomeapplet.Applet()
+      factory(applet, None)
+      applet.reparent(mainWindow)
+      mainWindow.show_all()
+      gtk.main()
+      sys.exit()
+
+if __name__ == '__main__':
+
+
+      print "Starting factory"
+      gnomeapplet.bonobo_factory("OAFIID:Next_USB_Factory", gnomeapplet.Applet.__gtype__, "Next_USB", "1.0", factory)

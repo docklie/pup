@@ -1,0 +1,18 @@
+JAVA_HOME="/network-raid/opt/jdk1.6.0_02/"
+PATH="/network-raid/opt/jdk1.6.0_02/bin:$PATH"
+MAXQ_PREFIX="java -jar "
+MAXQ_PATH="/network-raid/opt/maxq"
+MAXQ_WORKER_JAR="$MAXQ_PATH/maxq-worker.jar"
+MAXQ_MANAGER_JAR="$MAXQ_PATH/maxq-mgr.jar"
+MAXQ_CONTROLLER_JAR="$MAXQ_PATH/maxq-ctl.jar"
+
+MAXQ_WORKER="$MAXQ_PREFIX $MAXQ_WORKER_JAR"
+MAXQ_MANAGER="$MAXQ_PREFIX $MAXQ_MANAGER_JAR"
+MAXQ_WORKER_START_SCRIPT="$MAXQ_PATH/maxqworker_start.sh"
+MAXQ_MANAGER_START_SCRIPT="$MAXQ_PATH/maxqmgr_start.sh"
+MAXQ_CONTROLLER="$MAXQ_PREFIX $MAXQ_CONTROLLER_JAR"
+MAXQ_WORKER_ARGS="-a start" 
+MAXQ_MANAGER_ARGS="start"
+MAXQ_CONTROLLER_STOP_MANAGER_ARGS="-c stop -s 'localhost:7001' > /dev/null 2>&1"
+MAXQ_CONTROLLER_STOP_WORKER_ARGS="-c stop -s 'localhost:7002' > /dev/null 2>&1"
+

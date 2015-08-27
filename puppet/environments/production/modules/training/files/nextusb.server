@@ -1,0 +1,24 @@
+<oaf_info>
+
+	<oaf_server iid="OAFIID:Next_USB_Factory" type="exe" location="/usr/lib/gnome-applets/nextusb-applet">
+		<oaf_attribute name="repo_ids" type="stringv">
+			<item value="IDL:Bonobo/GenericFactory:1.0"/>
+			<item value="IDL:Bonobo/Unknown:1.0"/>
+		</oaf_attribute>
+		<oaf_attribute name="name" type="string" value="Next USB"/>
+		<oaf_attribute name="description" type="string" value="Give me next USB stick"/>
+	</oaf_server>
+
+	<oaf_server iid="OAFIID:Next_USB" type="factory" location="OAFIID:Next_USB_Factory">
+		<oaf_attribute name="repo_ids" type="stringv">
+			<item value="IDL:GNOME/Vertigo/PanelAppletShell:1.0"/>
+			<item value="IDL:Bonobo/Control:1.0"/>
+			<item value="IDL:Bonobo/Unknown:1.0"/>
+		</oaf_attribute>
+		<oaf_attribute name="name" type="string" value="Next USB"/>
+		<oaf_attribute name="description" type="string" value="Give me next USB stick"/>
+		<oaf_attribute name="panel:category" type="string" value="Utility"/>
+		<oaf_attribute name="panel:icon" type="string" value="usb.png"/>
+	</oaf_server>
+
+</oaf_info>

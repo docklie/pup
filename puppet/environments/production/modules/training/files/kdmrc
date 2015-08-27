@@ -1,0 +1,61 @@
+#dual seat kdmrc for centso6
+[General]
+ConfigVersion=2.3
+StaticServers=:0,:1
+#ReserveServers=:3
+ServerVTs=-1
+ConsoleTTYs=tty1,tty2,tty3,tty4,tty5,tty6
+PidFile=/var/run/kdm/kdm.pid
+AuthDir=/var/run/kdm
+
+[Xdmcp]
+# Whether KDM should listen to incoming XDMCP requests.  Default is true
+Enable=false
+Xaccess=/etc/X11/xdm/Xaccess
+Willing=/etc/X11/xdm/Xwilling
+
+[Shutdown]
+HaltCmd=/sbin/poweroff
+BootManager=None
+
+[X-*-Core]
+Resources=/etc/X11/xdm/Xresources
+Setup=/etc/X11/xdm/Xsetup_0
+Session=/etc/kde/kdm/Xsession
+UserAuthDir=/var/run/kdm
+ForceUserAuthDir=true
+AutoReLogin=false
+AllowShutdown=Root
+SessionsDirs=/usr/share/xsessions,/usr/share/kde4/apps/kdm/sessions
+ClientLogFile=.xsession-errors-%d
+
+[X-*-Greeter]
+LogoArea=Logo
+LogoPixmap=/usr/share/icons/hicolor/96x96/apps/system-logo-icon.png
+GreetString=Red Hat Enterprise Linux release 6.0
+AntiAliasing=true
+UserList=false
+FaceSource=PreferUser
+HiddenUsers=root
+MinShowUID=500
+MaxShowUID=65530
+# Default is true
+SortUsers=true
+FocusPasswd=true
+EchoPasswd=true
+UseBackground=true
+BackgroundCfg=/etc/kde/kdm/backgroundrc
+ForgingSeed=1108476160
+UseTheme=true
+Theme=/usr/share/kde4/apps/kdm/themes/CentOS6
+ColorScheme=Oxygen
+
+[X-:0-Core]
+ServerVT=7
+ServerArgsLocal=-nolisten tcp -sharevts -keeptty -layout Seat0
+
+[X-:1-Core]
+ServerVT=9
+ServerArgsLocal=-nolisten tcp -sharevts -keeptty -layout Seat1 -novtswitch
+
+

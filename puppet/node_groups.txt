@@ -1,0 +1,280 @@
+Object name: adamantium
+    groups=workstations
+Object name: dhcphost000
+    groups=dhcphosts
+Object name: dhcphost001
+    groups=dhcphosts
+Object name: dhcphost002
+    groups=dhcphosts
+Object name: dhcphost003
+    groups=dhcphosts
+Object name: dhcphost004
+    groups=dhcphosts
+Object name: dhcphost005
+    groups=dhcphosts
+Object name: dhcphost006
+    groups=dhcphosts
+Object name: dhcphost007
+    groups=dhcphosts
+Object name: dhcphost008
+    groups=dhcphosts
+Object name: dhcphost009
+    groups=dhcphosts
+Object name: dhcphost010
+    groups=dhcphosts
+Object name: dhcphost011
+    groups=dhcphosts
+Object name: dhcphost012
+    groups=dhcphosts
+Object name: dhcphost013
+    groups=dhcphosts
+Object name: dhcphost014
+    groups=dhcphosts
+Object name: dhcphost015
+    groups=dhcphosts
+Object name: dhcphost016
+    groups=dhcphosts
+Object name: dhcphost017
+    groups=dhcphosts
+Object name: dhcphost018
+    groups=dhcphosts
+Object name: dhcphost019
+    groups=dhcphosts
+Object name: dhcphost020
+    groups=dhcphosts
+Object name: dhcphost021
+    groups=dhcphosts
+Object name: dhcphost022
+    groups=dhcphosts
+Object name: dhcphost023
+    groups=dhcphosts
+Object name: dhcphost024
+    groups=dhcphosts
+Object name: dhcphost025
+    groups=dhcphosts
+Object name: dhcphost026
+    groups=dhcphosts
+Object name: dhcphost027
+    groups=dhcphosts
+Object name: dhcphost028
+    groups=dhcphosts
+Object name: dhcphost029
+    groups=dhcphosts
+Object name: dhcphost030
+    groups=dhcphosts
+Object name: dhcphost031
+    groups=dhcphosts
+Object name: dhcphost032
+    groups=dhcphosts
+Object name: dhcphost033
+    groups=dhcphosts
+Object name: dhcphost034
+    groups=dhcphosts
+Object name: dhcphost035
+    groups=dhcphosts
+Object name: dhcphost036
+    groups=dhcphosts
+Object name: dhcphost037
+    groups=dhcphosts
+Object name: dhcphost038
+    groups=dhcphosts
+Object name: dhcphost039
+    groups=dhcphosts
+Object name: dhcphost040
+    groups=dhcphosts
+Object name: dhcphost041
+    groups=dhcphosts
+Object name: dhcphost042
+    groups=dhcphosts
+Object name: dhcphost043
+    groups=dhcphosts
+Object name: dhcphost044
+    groups=dhcphosts
+Object name: dhcphost045
+    groups=dhcphosts
+Object name: dhcphost046
+    groups=dhcphosts
+Object name: dhcphost047
+    groups=dhcphosts
+Object name: dhcphost048
+    groups=dhcphosts
+Object name: dhcphost049
+    groups=dhcphosts
+Object name: dhcphost050
+    groups=dhcphosts
+Object name: dhcphost051
+    groups=dhcphosts
+Object name: dhcphost052
+    groups=dhcphosts
+Object name: dhcphost053
+    groups=dhcphosts
+Object name: dhcphost054
+    groups=dhcphosts
+Object name: dhcphost055
+    groups=dhcphosts
+Object name: dhcphost056
+    groups=dhcphosts
+Object name: dhcphost057
+    groups=dhcphosts
+Object name: dhcphost058
+    groups=dhcphosts
+Object name: dhcphost059
+    groups=dhcphosts
+Object name: dhcphost060
+    groups=dhcphosts
+Object name: dhcphost061
+    groups=dhcphosts
+Object name: dhcphost062
+    groups=dhcphosts
+Object name: dhcphost063
+    groups=dhcphosts
+Object name: dhcphost064
+    groups=dhcphosts
+Object name: dhcphost065
+    groups=dhcphosts
+Object name: dhcphost066
+    groups=dhcphosts
+Object name: dhcphost067
+    groups=dhcphosts
+Object name: dhcphost068
+    groups=dhcphosts
+Object name: dhcphost069
+    groups=dhcphosts
+Object name: dhcphost070
+    groups=dhcphosts
+Object name: dhcphost071
+    groups=dhcphosts
+Object name: dhcphost072
+    groups=dhcphosts
+Object name: dhcphost073
+    groups=dhcphosts
+Object name: dhcphost074
+    groups=dhcphosts
+Object name: dhcphost075
+    groups=dhcphosts
+Object name: dhcphost076
+    groups=dhcphosts
+Object name: dhcphost077
+    groups=dhcphosts
+Object name: dhcphost078
+    groups=dhcphosts
+Object name: dhcphost079
+    groups=dhcphosts
+Object name: dhcphost080
+    groups=dhcphosts
+Object name: dhcphost081
+    groups=dhcphosts
+Object name: dhcphost082
+    groups=dhcphosts
+Object name: dhcphost083
+    groups=dhcphosts
+Object name: dhcphost084
+    groups=dhcphosts
+Object name: dhcphost085
+    groups=dhcphosts
+Object name: dhcphost086
+    groups=dhcphosts
+Object name: dhcphost087
+    groups=dhcphosts
+Object name: dhcphost088
+    groups=dhcphosts
+Object name: dhcphost089
+    groups=dhcphosts
+Object name: dhcphost090
+    groups=dhcphosts
+Object name: dhcphost091
+    groups=dhcphosts
+Object name: dhcphost092
+    groups=dhcphosts
+Object name: dhcphost093
+    groups=dhcphosts
+Object name: dhcphost094
+    groups=dhcphosts
+Object name: dhcphost095
+    groups=dhcphosts
+Object name: dhcphost096
+    groups=dhcphosts
+Object name: dhcphost097
+    groups=dhcphosts
+Object name: dhcphost098
+    groups=dhcphosts
+Object name: dhcphost099
+    groups=dhcphosts
+Object name: laton
+    groups=workstations
+Object name: maxnode000
+    groups=ipmi,maxnode,all
+Object name: maxnode000-bmc
+    groups=maxnodebmc
+Object name: maxnode001
+    groups=ipmi,maxnode,all
+Object name: maxnode001-bmc
+    groups=maxnodebmc
+Object name: maxnode002
+    groups=ipmi,maxnode,all
+Object name: maxnode002-bmc
+    groups=maxnodebmc
+Object name: maxnode003
+    groups=ipmi,maxnode,all
+Object name: maxnode003-bmc
+    groups=maxnodebmc
+Object name: maxnode004
+    groups=ipmi,maxnode,all
+Object name: maxnode004-bmc
+    groups=maxnodebmc
+Object name: maxnode005
+    groups=maxnodevm,all
+Object name: maxnode006
+    groups=maxnodevm,all
+Object name: maxnode100
+    groups=ipmi,maxnode,all
+Object name: maxnode100-bmc
+    groups=maxnodebmc
+Object name: puppet
+    groups=
+Object name: titanium
+    groups=workstations
+Object name: workstation000
+    groups=workstations
+Object name: workstation001
+    groups=workstations,ipmi,all
+Object name: workstation002
+    groups=workstations,ipmi,all
+Object name: workstation003
+    groups=workstations,ipmi,all
+Object name: workstation004
+    groups=workstations,ipmi,all
+Object name: workstation005
+    groups=workstations,ipmi,all
+Object name: workstation006
+    groups=workstations,ipmi,all
+Object name: workstation007
+    groups=workstations,ipmi,all
+Object name: workstation008
+    groups=workstations,ipmi,all
+Object name: workstation009
+    groups=workstations,ipmi,all
+Object name: workstation010
+    groups=workstations,ipmi,all
+Object name: xtreemfs000
+    groups=xtreemfs
+Object name: xtreemfs001
+    groups=xtreemfs
+Object name: xtreemfs002
+    groups=xtreemfs
+Object name: xtreemfs003
+    groups=xtreemfs
+Object name: xtreemfs004
+    groups=xtreemfs
+Object name: xtreemfs005
+    groups=xtreemfs
+Object name: xtreemfs006
+    groups=xtreemfs
+Object name: xtreemfs007
+    groups=xtreemfs
+Object name: xtreemfs008
+    groups=xtreemfs
+Object name: xtreemfs009
+    groups=xtreemfs
+Object name: xtreemfs010
+    groups=xtreemfs

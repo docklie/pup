@@ -1,0 +1,46 @@
+#!/bin/bash
+echo "Please insert USB stick into any USB port now"
+echo "This will be automatically mounted and will be available from your desktop"
+
+DISKLISTORIG=`fdisk -l 2>/dev/null | grep "/dev/sd[a-z][1-9]" | awk '{ print $1; }' | sed "s/://"`
+ITER=0
+EXITC=0
+while [[ ${EXITC} -eq 0 ]]; do
+	sleep 1
+	ITER=$(( ${ITER} + 1 ))
+	DISKLISTNEW=`fdisk -l 2>/dev/null| grep "/dev/sd[a-z][1-9]" | awk '{ print $1; }' | sed "s/://"`
+	if [[ "${DISKLISTNEW}" != "${DISKLISTORIG}" ]]; then
+		if [[ ${#DISKLISTNEW} -lt ${#DISKLISTORIG} ]]; then
+			DISKLISTORIG="${DISKLISTNEW}"
+		else
+			EXITC=1
+		fi
+	fi
+	if [[ ${ITER} -eq 30 ]]; then
+		EXITC=2
+	fi
+	echo -n "." 
+done
+
+echo
+if [[ ${EXITC} -eq 2 ]]; then
+	echo "I'm sorry but I was unable to locate the USB stick. Please remove the stick and rerun this script"
+	exit 1
+fi
+
+DISKLIST="${DISKLISTNEW#${DISKLISTORIG}}"
+
+ITER=0
+for i in ${DISKLIST}; do
+	DIRNAME=/media/${SUDO_USER}-${ITER}
+	if [[ ! -d ${DIRNAME} ]]; then
+		mkdir -p ${DIRNAME}
+	fi
+	chown ${SUDO_USER}:training ${DIRNAME}
+
+	echo "Mounting partition ${i} in ${DIRNAME}"
+	mount ${i} ${DIRNAME} -o rw,nosuid,nodev,uhelper=udisks,uid=${SUDO_UID},gid=training,shortname=mixed,dmask=0077,utf8=1,flush
+done
+
+
+
